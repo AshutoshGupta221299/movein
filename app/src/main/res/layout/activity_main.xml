@@ -10,7 +10,7 @@
         android:id="@+id/search"
         android:layout_width="234dp"
         android:layout_height="66dp"
-        android:hint="Type something"
+        android:hint="Type something here"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.197"
         app:layout_constraintStart_toStartOf="parent"
